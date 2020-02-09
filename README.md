@@ -6,6 +6,8 @@ Searches NA OP GG for your teammates profiles via C+P the chatlog during champse
 
 # How to use :
 
+Edit line in .Py file containing 'Blacklist = [" "], and fill your ["playername", "duo", "partners"]. (casesensitive) 'Save'
+
 To begin, have  the app open before queue for match pops.
 
 When you get into Champ-Select/Draft phase then copy the entire chatlog, everything.
