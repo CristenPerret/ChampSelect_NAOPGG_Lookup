@@ -1,6 +1,6 @@
 # ChampSelect_NAOPGG_Lookup
 
-Searches NA OP GG for your teammates profiles.
+Searches NA OP GG for your teammates profiles via C+P the chatlog during champselect.
 
 
 
