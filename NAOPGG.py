@@ -1,4 +1,4 @@
-#created and tested by Dumpsterman. Goodluck Have fun GG!
+#created and tested by CristenPerret. Goodluck Have fun GG!
 
 import win32gui, win32con
 
@@ -6,7 +6,7 @@ import tkinter as tk
 import webbrowser
 
 NAOPGG ="https://na.op.gg/summoner/userName="
-blackList = ["Dumpsterman"]
+blackList = ["CristenPerret"]
 class SampleApp(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
@@ -63,10 +63,10 @@ JannaBot joined the lobby
 JannaBot: sup
 NunuBot joined the lobby
 NunuBot: this is a test string.
-Dumpsterman joined the lobby
+CristenPerret joined the lobby
 LucianBot joined the lobby
 BrandBot joined the lobby
 LucianBot: ff@15
 A Name Can Have Space joined the lobby
-Dumpsterman: GL HF!!
+CristenPerret: GL HF!!
 '''
