@@ -1,7 +1,6 @@
 #created and tested by CristenPerret. Goodluck Have fun GG!
 
 import win32gui, win32con
-
 import tkinter as tk
 import webbrowser
 
@@ -46,14 +45,10 @@ class SampleApp(tk.Tk):
                     webbrowser.open_new_tab(NAOPGG + i)                                                                         
                                            
 hide_terminal = win32gui.GetForegroundWindow() # if you want to see the terminal remove
-win32gui.ShowWindow(hide_terminal , win32con.SW_HIDE) # if you want to see the terminal remove
-       
-
+win32gui.ShowWindow(hide_terminal , win32con.SW_HIDE) # if you want to see the terminal remove    
 
 app = SampleApp()
 app.mainloop()
-
-
 
 #Below is a test string.
 #save to clipboard, paste in the field,
