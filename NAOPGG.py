@@ -6,7 +6,7 @@ import tkinter as tk
 import webbrowser
 
 NAOPGG ="https://na.op.gg/summoner/userName="
-blackList = ["CristenPerret"]
+blackList = ["CristenPerret", "...", "replace with", "summonername", "andduopartners", "orfriends"]
 class SampleApp(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
